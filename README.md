@@ -506,7 +506,7 @@ The toolkit follows these principles:
 
 Use this checklist to track system design readiness.
 
-- [ ] Networking basics
+- [x] Networking basics
 - [ ] HTTP and API design
 - [ ] Load balancing
 - [ ] Caching
@@ -628,6 +628,7 @@ Common terms used throughout this repository:
 Planned repository milestones:
 
 - [ ] Add foundational theory notes
+  - [x] Client-server architecture
 - [ ] Add database and caching deep dives
 - [ ] Add distributed systems patterns
 - [ ] Add runnable code snippets
