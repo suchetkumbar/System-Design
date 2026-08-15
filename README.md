@@ -517,7 +517,7 @@ Use this checklist to track system design readiness.
 - [ ] SQL vs NoSQL trade-offs
 - [ ] Replication
 - [ ] Sharding and partitioning
-- [ ] Consistency models
+- [x] Consistency models
 - [x] CAP theorem
 - [ ] Message queues
 - [ ] Stream processing
@@ -638,6 +638,7 @@ Planned repository milestones:
   - [x] Vertical vs horizontal scaling
   - [x] Stateless vs stateful services
   - [x] CAP theorem and PACELC
+  - [x] Consistency models
 - [ ] Add database and caching deep dives
 - [ ] Add distributed systems patterns
 - [ ] Add runnable code snippets
