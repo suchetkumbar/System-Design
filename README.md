@@ -509,6 +509,7 @@ Use this checklist to track system design readiness.
 - [x] Networking basics
 - [x] HTTP and API design
 - [x] Load balancing
+- [x] Performance and reliability basics
 - [ ] Caching
 - [ ] Database indexing
 - [ ] SQL vs NoSQL trade-offs
@@ -631,6 +632,7 @@ Planned repository milestones:
   - [x] Client-server architecture
   - [x] HTTP, REST, WebSockets, and gRPC
   - [x] DNS, CDNs, proxies, and load balancers
+  - [x] Latency, throughput, availability, and durability
 - [ ] Add database and caching deep dives
 - [ ] Add distributed systems patterns
 - [ ] Add runnable code snippets
