@@ -513,7 +513,7 @@ Use this checklist to track system design readiness.
 - [x] Scaling basics
 - [x] Stateless vs stateful services
 - [ ] Caching
-- [ ] Database indexing
+- [x] Database indexing
 - [ ] SQL vs NoSQL trade-offs
 - [ ] Replication
 - [ ] Sharding and partitioning
@@ -639,6 +639,7 @@ Planned repository milestones:
   - [x] Stateless vs stateful services
   - [x] CAP theorem and PACELC
   - [x] Consistency models
+  - [x] Database indexing and query patterns
 - [ ] Add database and caching deep dives
 - [ ] Add distributed systems patterns
 - [ ] Add runnable code snippets
