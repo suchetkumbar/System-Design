@@ -518,7 +518,7 @@ Use this checklist to track system design readiness.
 - [ ] Replication
 - [ ] Sharding and partitioning
 - [ ] Consistency models
-- [ ] CAP theorem
+- [x] CAP theorem
 - [ ] Message queues
 - [ ] Stream processing
 - [ ] Distributed transactions
@@ -637,6 +637,7 @@ Planned repository milestones:
   - [x] Latency, throughput, availability, and durability
   - [x] Vertical vs horizontal scaling
   - [x] Stateless vs stateful services
+  - [x] CAP theorem and PACELC
 - [ ] Add database and caching deep dives
 - [ ] Add distributed systems patterns
 - [ ] Add runnable code snippets
