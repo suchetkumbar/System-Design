@@ -511,6 +511,7 @@ Use this checklist to track system design readiness.
 - [x] Load balancing
 - [x] Performance and reliability basics
 - [x] Scaling basics
+- [x] Stateless vs stateful services
 - [ ] Caching
 - [ ] Database indexing
 - [ ] SQL vs NoSQL trade-offs
@@ -635,6 +636,7 @@ Planned repository milestones:
   - [x] DNS, CDNs, proxies, and load balancers
   - [x] Latency, throughput, availability, and durability
   - [x] Vertical vs horizontal scaling
+  - [x] Stateless vs stateful services
 - [ ] Add database and caching deep dives
 - [ ] Add distributed systems patterns
 - [ ] Add runnable code snippets
