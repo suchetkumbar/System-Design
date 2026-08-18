@@ -24,6 +24,8 @@ Use this repository as a learning path, a reference guide, and a preparation wor
 
 ## Repository Structure
 
+Contains md files as per directory titles.
+
 ```text
 .
 |-- theory/
